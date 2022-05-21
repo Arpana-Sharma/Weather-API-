@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/light.jpg');
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    padding: 60px 30px;
+    opacity: 0.74;
+    width: 22%;
+    color: black;
+    margin: auto;
+    background-color: white;
+}
